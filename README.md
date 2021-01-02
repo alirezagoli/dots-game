@@ -1,1 +1,3 @@
-# dots-game
+# Dots Game
+Language: C++
+Framework: Qt
